@@ -7,7 +7,7 @@
 
 <p align="">
 <a href="https://github.com/AlperCanErysr">
-  <img height="120em" width=1500px align="" src="https://github-readme-stats.vercel.app/api?username=AlperCanErysr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true"%20alt="AlperCanErysr"/>
-  <img height="120em" align="" width=1500px src="https://github-readme-stats.vercel.app/api/top-langs?username=AlperCanErysr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"%20alt="AlperCanErysr"/>
+  <img height="180em" width=500px align="" src="https://github-readme-stats.vercel.app/api?username=AlperCanErysr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true"%20alt="AlperCanErysr"/>
+  <img height="180em" align="" width=500px src="https://github-readme-stats.vercel.app/api/top-langs?username=AlperCanErysr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"%20alt="AlperCanErysr"/>
 </a>
 </p>
