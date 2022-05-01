@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<p align="">
+<p align="center">
 <a href="https://github.com/AlperCanErysr">
   <img height="180em" width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AlperCanErysr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true"%20alt="AlperCanErysr"/>
   <img height="180em" align="center" width=500px src="https://github-readme-stats.vercel.app/api/top-langs?username=AlperCanErysr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"%20alt="AlperCanErysr"/>
